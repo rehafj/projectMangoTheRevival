@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/assets/Scenes/0.unity
+    guid: 90ecae689cead4b739801f713d6a12d0
+  - enabled: 1
+    path: Assets/assets/Scenes/scene1.unity
+    guid: a3800229d5e2541fe95cfe19d470dca0
+  - enabled: 1
+    path: Assets/assets/Scenes/end0.unity
+    guid: 672ba74f6c1454cf6b7709f12ef7c359
+  - enabled: 1
+    path: Assets/assets/Scenes/scene2.unity
+    guid: 35ad623028ef54306abe52cb1b466f3f
+  - enabled: 1
+    path: Assets/assets/Scenes/scene3.unity
+    guid: 9d8065a910d9b46e89d0b463dfa40f28
+  - enabled: 1
+    path: Assets/assets/Scenes/Playground.unity
+    guid: e4aa2ce9b7e27475eaf581481a8bbad5
+  - enabled: 1
+    path: Assets/assets/Scenes/scene4.unity
+    guid: 49a8be28e977049e897992096ce4d485
+  - enabled: 1
+    path: Assets/assets/Scenes/endDraco.unity
+    guid: 862416db2cf134aaf9c9d096ba5dd6a5
+  - enabled: 1
+    path: Assets/assets/Scenes/end1.unity
+    guid: 2f8ef598a26cc4ed0afcff4f6f4e1298
+  m_configObjects: {}
